@@ -18,7 +18,7 @@ var questions = [
 ];
 
 
-// create a timer based on start button click event
+// create a timer based quiz on start button click event
 
  
  var startBtn = document.querySelector("#btn-id");
